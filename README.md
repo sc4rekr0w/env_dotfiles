@@ -32,6 +32,15 @@ Detalles sobre el setup:
 |super + alt + r|Reiniciar bspwm|
 |super + ctrl + {Left,Right}|Moverse entre escritorios|
 
+| **Atajo** | **Acción** |
+|--------------|-------------|
+|ctrl + t| Busqueda activa fzf|
+|ctrl + shift + alt + t| Nombrar etiqueta kitty|
+|ctrl + shift + t| Añadir etiqueta kitty|
+|ctrl + shift + derecha o izquierda| Cambiar entre etiquetas kitty|
+|f1 y f3| Copiar a clipboard|
+|f2 y f4| Pegar a clipboard|
+
 ## Galería 📸
 
 ![image](https://user-images.githubusercontent.com/83777791/226065178-a55cd9a4-e1b9-4f01-8fe3-25ff90209489.png)
