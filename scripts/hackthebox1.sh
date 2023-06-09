@@ -11,5 +11,5 @@ elif [ "$IFACE1" = "tun1" ]; then
     echo "$(/usr/sbin/ifconfig tun1 | grep "inet " | awk '{print $2}')%{u-}"
 else
  #   sed -i '253 s///' ~/.config/polybar/current.ini
-    echo "%{F#1bbf3e} Disconnected"
+    echo "%{F#FFFFFF} Disconnected"
 fi
